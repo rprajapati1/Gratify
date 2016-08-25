@@ -20,14 +20,14 @@ Our goal for the competitive analysis was to discover weaknesses in competitor p
 
 We found that, while solutions on the management end were fairly sophisticated, the market lacks a cleanly designed, simple, and useful application for servers to keep track of their own tips and help with their checkouts.
 
-The image here gives you a glimpse of what the “best” tip-tracking app for servers in the market looks like.
+The radar image (page#16 in "Gratify-finalDeck-1.pdf") gives you a glimpse of what the “best” tip-tracking app for servers in the market looks like.
 
 We conducted an in-depth competitive analysis for tip-tracking mobile apps. The user reviews from Google App store and Apple Store helped us determine not only the features that were important to the users but also when and how the servers used these apps
 and their pain points. We then determined how each of the top four mobile apps fared on each of these metrics.
 
 Below is an overview of the findings. One of the biggest confirmations was that none of the existing apps facilitated automated tip out calculations or were easy to use.
 
-Also, servers seemed to prefer statistical number (like average, median tip income etc.) over charts while analyzing their earnings.  
+Also, servers seemed to prefer statistical number (like average, median tip income etc.) over charts while analyzing their earnings and desired a way to track tip income from multiple jobs.  
 
 ####Prototype:
 Because of the challenges metioned above, while we had set out to design a user-centered, cloud-based system that would simplify the tip out process for all affected parties (servers, bartenders, managers, bookkeepers, and support staff), we finally focused our efforts on creating a mobile prototype for servers. We ended up going with low fidelity prototypes because we didn’t want users that we tested reacting to colors or spacing or fonts. 
